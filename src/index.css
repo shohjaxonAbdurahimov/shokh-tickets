@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-hr {
+    width: 750px;
+}
+
+.navbar-logo {
+    width: 55px;
+    height: 30px;
+}
+
+.cards-priority {
+    width: 50px;
+    height: 50px;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    top: 17px;
+    left: 640px;
+}
+
+.create-div {
+    margin: auto;
+}
+
+.input-one {
+    width: 350px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.input-two {
+    margin-bottom: 5px;
+    width: 350px;
+    margin-top: 5px;
+}
+
+.input-three {
+    margin-bottom: 5px;
+    width: 350px;
+    padding: 8px;
+}
+
+.bg {
+    background-color: inherit;
+    box-shadow: 0px 0px 10px rgb(190, 190, 190);
+    border-radius: 15px;
+}
